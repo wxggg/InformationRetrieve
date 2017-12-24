@@ -1,0 +1,8 @@
+src/trec/SearchTopics.java
+src/indexing/Indexer.java
+src/TransOfFormat/SAX_NXMLfilePraser.java
+src/TransOfFormat/SAX_NXMLfileWirter.java
+src/TransOfFormat/Tag.java
+src/TransOfFormat/Test.java
+src/TransOfFormat/SAX_NXMLHandler.java
+src/TransOfFormat/TransOfFormat_TREC.java
